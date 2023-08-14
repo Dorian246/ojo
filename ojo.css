@@ -1,0 +1,26 @@
+
+
+body {
+    background:black;
+    color: White;
+  }
+  .ojo{
+       width: 300px;
+       height: 150px;
+      background: white;
+      position:absolute;
+      border-radius:50%;
+       left:25%;
+      top:25%;
+  }
+  .punto{
+       width: 40px;
+       height: 100px;
+      background: black;
+      position:absolute;
+      border-radius:100%;
+      left:50%;
+      top:50%;
+      transform:translate(-50%, -50%);
+  }
+  
